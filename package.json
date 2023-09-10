@@ -1,9 +1,0 @@
-{
-  "name": "qriousguy-web",
-  "version": "1.0.0",
-  "description": "Qrious guy website",
-  "main": "index.js",
-  "repository": "https://github.com/Ashishjain608/qriousguy-web.git",
-  "author": "ashishjain608@gmail.com",
-  "license": "MIT"
-}
